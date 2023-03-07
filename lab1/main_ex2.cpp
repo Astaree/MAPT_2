@@ -85,6 +85,7 @@ int main(void)
     // r3.print_v();
 
     overloadedFn(r1.data_[0]);
+    cout<<endl;
     overloadedFn(r3);
     return EXIT_SUCCESS;
 }

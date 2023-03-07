@@ -1,3 +1,7 @@
+# Documents
+*.docx
+*.docs
+
 # Prerequisites
 *.d
 
