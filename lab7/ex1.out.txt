@@ -1,0 +1,71 @@
+>> a = 1
+a =
+     1
+>> b = 2.0
+b =
+     2
+>> Ex_1
+a =
+     1
+b =
+     2
+c =
+    'f'
+d =
+  -12.5788
+d =
+ -12.578799093455300
+d1 =
+  single
+ -12.5787992
+d2 =
+  int8
+   -13
+d3 =
+  uint8
+   0
+dr =
+   -13
+dc =
+   -12
+df =
+   -13
+aa =
+     2
+bb =
+     4
+dd =
+   -6.2894
+ff =
+     4
+gg =
+    1.4142
+ii =
+    1.4142
+cc =
+    97
+>> whos
+  Name      Size            Bytes  Class     Attributes
+
+  a         1x1                 8  double              
+  aa        1x1                 8  double              
+  b         1x1                 8  double              
+  bb        1x1                 8  double              
+  c         1x1                 2  char                
+  cc        1x1                 8  double              
+  d         1x1                 8  double              
+  d1        1x1                 4  single              
+  d2        1x1                 1  int8                
+  d3        1x1                 1  uint8               
+  dc        1x1                 8  double              
+  dd        1x1                 8  double              
+  df        1x1                 8  double              
+  dr        1x1                 8  double              
+  ff        1x1                 8  double              
+  gg        1x1                 8  double              
+  ii        1x1                 8  double              
+>> pwd
+ans =
+    'C:\Users\Gab\Documents\GitHub\MAPT_2\lab7'
+>> ls
+.       ..      Ex_1.m  Ex_2.m  Ex_3.m 

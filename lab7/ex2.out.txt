@@ -1,0 +1,6 @@
+>> Ex_2
+File: Ex_2.m Line: 50 Column: 9
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or other syntax error. To construct
+matrices, use brackets instead of parentheses.
+
+#Fixing parentheses so i can use debug mode for stepping 
